@@ -1,0 +1,4 @@
+---
+# vars file for single_task
+path: "test/test.txt"
+contents: "This is the default content defined in defaults. If you see this, please update your parameters."
